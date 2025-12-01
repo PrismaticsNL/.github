@@ -1,12 +1,21 @@
-## Hi there 👋
+# 🌈 Prismatics
 
-<!--
+Transform data into interactive visual experiences.
 
-**Here are some ideas to get you started:**
+## About
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+We're building tools that make data visualization fun and accessible. Prismatics turns datasets into interactive games where exploration leads to insight.
+
+## Our Projects
+
+Explore our repositories to see what we're working on.
+
+## Get Involved
+
+- ⭐ Star repos you find useful
+- 🐛 Report issues or suggest features
+- 🤝 Contribute to our projects
+
+---
+
+*Making data delightful* ✨
