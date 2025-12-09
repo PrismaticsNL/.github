@@ -1,4 +1,4 @@
-# 🌈 Prismatics
+![Large Prismatics logo. Prismatics with a white line going through a prism which acts as letter A and splits into a rainbow](/pictures/large_logo.png)
 
 Transform data into interactive visual experiences.
 
