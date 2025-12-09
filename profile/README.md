@@ -1,4 +1,4 @@
-![Large Prismatics logo. Prismatics with a white line going through a prism which acts as letter A and splits into a rainbow](/profile/pictures/large_logo.png)
+![Large Prismatics logo. Prismatics with a white line going through a prism which acts as letter A and splits into a rainbow](/profile/pictures/large_logo.svg)
 
 Transform data into interactive visual experiences.
 
